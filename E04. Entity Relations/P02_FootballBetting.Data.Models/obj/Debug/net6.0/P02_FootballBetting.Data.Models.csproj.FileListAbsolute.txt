@@ -1,0 +1,16 @@
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.deps.json
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Common.dll
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Common.pdb
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.csproj.AssemblyReference.cache
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.AssemblyInfo.cs
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.sourcelink.json
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_Foot.5F926CBB.Up2Date
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\refint\P02_FootballBetting.Data.Models.dll
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+C:\Users\macbook\Desktop\Entity Framework Core\Entity Relations\EntityFrameworkCore\E04. Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\ref\P02_FootballBetting.Data.Models.dll
